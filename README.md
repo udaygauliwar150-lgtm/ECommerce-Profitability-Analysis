@@ -4,7 +4,8 @@
 An interactive Excel dashboard designed to analyze over 9,000 retail transactions from a multi-regional e-commerce marketplace. The goal of this analysis was to move beyond high-level sales volumes and isolate structural operational bottlenecks impacting the company's net profit margins.
 
 ## 📊 Dashboard Preview
-![Dashboard](Dashboard screenshot.png)
+
+<img width="1472" height="595" alt="Dashboard screenshot" src="https://github.com/user-attachments/assets/73dc83d6-d222-47c3-84bf-093a26298518" />
 
 ## 🔍 Key Business Insights Discovered
 * **Critical Profit Drain:** The **Tables** sub-category acts as a major bottleneck—generating high revenue (₹2.06L) but resulting in a severe net loss of **₹17,725** due to aggressive promotional markdown discounts exceeding 20%.
